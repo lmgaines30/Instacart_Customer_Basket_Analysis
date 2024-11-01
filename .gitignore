@@ -1,2 +1,3 @@
 cleaned_data_files/*.csv
 raw_data_files/*.csv
+raw_data_files/Insta_SQL
